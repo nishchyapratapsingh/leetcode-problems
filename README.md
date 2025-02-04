@@ -8,6 +8,7 @@ My solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
