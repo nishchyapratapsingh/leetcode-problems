@@ -7,6 +7,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -53,4 +54,12 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
