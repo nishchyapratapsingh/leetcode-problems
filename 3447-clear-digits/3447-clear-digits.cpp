@@ -1,30 +1,18 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        string result;
-        stack<int> intstack;
+        int j=0; 
 
-        for (int i=0; i<s.length(); i++) {
-
-            intstack.push(s[i]);
-
-            if (!empty(intstack) && intstack.top() >= '0' && intstack.top() <= '9') {
-                
-                intstack.pop();
-                if (!empty(intstack)) intstack.pop();
+        for (char c: s) {
+            if(isdigit(c)) {
+                if (j>0) j--;
             }
 
+            else {
+                s[j++] = c;
+            }
         }
 
-        while (!empty(intstack)) {
-            result.push_back(intstack.top());
-            intstack.pop();
-        }
-
-        reverse(result.begin(), result.end());
-
-        return result;
-
+        return s.substr(0,j);
     }
-
 };
