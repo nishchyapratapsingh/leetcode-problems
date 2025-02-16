@@ -10,6 +10,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -76,4 +77,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
