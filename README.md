@@ -41,6 +41,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
 | ------- |
