@@ -1,26 +1,27 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int s = 0;
-        int e = nums.size()-1;
-        int m = s + (e-s)/2;
 
-        while (e>=s) {
-            if (nums[m]==target) {
-                return m;
-            }
+    int recursiveSearch(vector<int> nums, int s, int e, int target) {
+        int m = s+ (e-s)/2;
 
-            else if (nums[m] < target) {
-                s=m+1;
-            }
-
-            else {
-                e = m-1;
-            }
-
-            m=s+(e-s)/2;
+        if (s>e) {
+            return -1;
         }
 
-        return -1;
+        if (nums[m]==target) {
+            return m;
+        }
+
+        else if (nums[m]>target) {
+            return recursiveSearch(nums, s, m-1, target);
+        }
+
+        else {
+            return recursiveSearch(nums, m+1, e, target);
+        }
+    }
+
+    int search(vector<int>& nums, int target) {
+        return recursiveSearch(nums, 0, nums.size()-1, target);
     }
 };
