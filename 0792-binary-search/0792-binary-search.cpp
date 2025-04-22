@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int recursiveSearch(vector<int> nums, int s, int e, int target) {
+    int recursiveSearch(vector<int> &nums, int s, int e, int target) {
         int m = s+ (e-s)/2;
 
         if (s>e) {
