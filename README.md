@@ -41,6 +41,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
@@ -66,6 +67,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,12 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
