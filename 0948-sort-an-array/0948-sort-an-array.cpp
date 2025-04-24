@@ -6,7 +6,6 @@ public:
             int key = nums[i];
             int j = i - 1;
 
-            // Move elements greater than key to one position ahead
             while (j >= s && nums[j] > key) {
                 nums[j + 1] = nums[j];
                 --j;
