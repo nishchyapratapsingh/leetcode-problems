@@ -50,7 +50,10 @@ public:
         int m=s+(e-s)/2;
         mergeSort(nums, s, m, temp);
         mergeSort(nums, m+1, e, temp);
+
+        if (nums[m]>nums[m+1]) {
         merge(nums, s, m ,e, temp);
+        }
     }
 
     vector<int> sortArray(vector<int>& nums) {
