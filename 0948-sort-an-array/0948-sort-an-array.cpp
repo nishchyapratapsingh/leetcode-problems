@@ -1,6 +1,21 @@
 class Solution {
 public:
 
+    void insertionSort(vector<int>& nums, int s, int e) {
+        for (int i = s + 1; i <= e; ++i) {
+            int key = nums[i];
+            int j = i - 1;
+
+            // Move elements greater than key to one position ahead
+            while (j >= s && nums[j] > key) {
+                nums[j + 1] = nums[j];
+                --j;
+            }
+            nums[j + 1] = key;
+        }
+    }
+
+
     void merge(vector<int>& nums, int s, int m, int e, vector<int>& temp) {
         int left = s;
         int tempIdx = s;
@@ -28,7 +43,8 @@ public:
     }
 
     void mergeSort(vector<int>& nums, int s, int e, vector<int>& temp) {
-        if (s>=e) {
+        if (e - s <= 16) { 
+            insertionSort(nums, s, e);
             return;
         }
         int m=s+(e-s)/2;
