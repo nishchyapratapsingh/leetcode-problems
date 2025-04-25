@@ -13,6 +13,7 @@ My solutions to leetcode problems
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ My solutions to leetcode problems
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +119,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
