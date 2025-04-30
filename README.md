@@ -8,6 +8,7 @@ My solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -90,6 +91,7 @@ My solutions to leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Recursion
 |  |
@@ -123,4 +125,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
