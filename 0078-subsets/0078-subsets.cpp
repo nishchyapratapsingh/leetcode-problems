@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void solve(vector<int> nums, vector<int> output,vector<vector<int>> &result, int index) {
+    void solve(vector<int> &nums, vector<int> output,vector<vector<int>> &result, int index) {
         //base case
         if (index>=nums.size()) {
             result.push_back(output);
