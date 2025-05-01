@@ -1,18 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result;
-        result.push_back({}); // start with empty subset
 
-        for (int i = 0; i < nums.size(); ++i) {
-            int currentSize = result.size();
-            for (int j = 0; j < currentSize; ++j) {
-                vector<int> newSubset = result[j];
-                newSubset.push_back(nums[i]);
-                result.push_back(newSubset);
-            }
+    void solve(vector<int> nums, vector<int> output,vector<vector<int>> &result, int index) {
+        //base case
+        if (index>=nums.size()) {
+            result.push_back(output);
+            return;
         }
 
+        //exclude
+        solve(nums, output, result, index+1);
+
+        //include
+        int element = nums[index];
+        output.push_back(element);
+        solve(nums, output, result, index+1);
+    }
+
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> result;
+        vector<int> output;
+        int index=0;
+        solve(nums, output, result, index);
         return result;
     }
 };
