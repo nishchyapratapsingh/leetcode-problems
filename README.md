@@ -8,6 +8,7 @@ My solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
@@ -34,6 +35,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 ## String
