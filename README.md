@@ -13,6 +13,7 @@ My solutions to leetcode problems
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
@@ -39,6 +40,7 @@ My solutions to leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 ## String
@@ -72,6 +74,7 @@ My solutions to leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Counting
