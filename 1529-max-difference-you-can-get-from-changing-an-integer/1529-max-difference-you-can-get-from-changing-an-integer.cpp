@@ -14,12 +14,8 @@ public:
         }
         char t = number[0];
         for (int i=0; i<n; i++) {
-            if (i>0 && t == '1' && number[i]!='0' &&number[i]!='1') {
+            if (number[i]!='0' &&number[i]!='1') {
                 e = temp[i];
-                break;
-            }
-            else if (number[i]!='1' && number[i]!='0') {
-                e=temp[i];
                 break;
             }
         }
