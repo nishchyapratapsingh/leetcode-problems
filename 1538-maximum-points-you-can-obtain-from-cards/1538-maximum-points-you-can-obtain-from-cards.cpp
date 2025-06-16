@@ -10,10 +10,10 @@ public:
         for (int r=0; r<n; r++) 
         {
             currWinP += cardPoints[r];
-            if(r-l+1 ==n- k) minScore = min(minScore, currWinP);
+            if(r-l+1 ==n- k) minScore = min(minScore, currWinP); //first window score
             if (r-l+1 > n-k) {
                 currWinP-=cardPoints[l];
-                minScore = min(minScore, currWinP);
+                minScore = min(minScore, currWinP); //next window scores
                 l++;
             }
             
