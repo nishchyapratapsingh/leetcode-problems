@@ -21,6 +21,7 @@ My solutions to leetcode problems
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -73,6 +74,7 @@ My solutions to leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
@@ -108,6 +110,7 @@ My solutions to leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +179,7 @@ My solutions to leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Bit Manipulation
