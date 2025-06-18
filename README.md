@@ -20,6 +20,7 @@ My solutions to leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -39,6 +40,7 @@ My solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -74,6 +76,7 @@ My solutions to leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
