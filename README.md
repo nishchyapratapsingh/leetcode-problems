@@ -96,6 +96,7 @@ My solutions to leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -174,6 +175,7 @@ My solutions to leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
