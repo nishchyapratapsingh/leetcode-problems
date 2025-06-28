@@ -11,6 +11,7 @@ My solutions to leetcode problems
 | [0031-next-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -171,6 +172,7 @@ My solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
