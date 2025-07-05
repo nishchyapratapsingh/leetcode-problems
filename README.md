@@ -169,6 +169,7 @@ My solutions to leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -263,4 +264,16 @@ My solutions to leetcode problems
 | [0206-reverse-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
