@@ -9,7 +9,7 @@ public:
         
         for (int i = 0; i < n; ++i) {
             int key = nums[i] - i;
-            goodPairs += freq[key];  // count how many times this key appeared before
+            goodPairs += freq[key]; 
             freq[key]++;
         }
         
