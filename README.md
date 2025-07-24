@@ -87,6 +87,7 @@ My solutions to leetcode problems
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
@@ -176,6 +177,7 @@ My solutions to leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
