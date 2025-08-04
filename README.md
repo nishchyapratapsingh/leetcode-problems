@@ -128,6 +128,7 @@ My solutions to leetcode problems
 | [0002-add-two-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -188,6 +189,7 @@ My solutions to leetcode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -233,6 +235,7 @@ My solutions to leetcode problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
