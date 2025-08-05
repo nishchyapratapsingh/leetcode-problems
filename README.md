@@ -48,6 +48,7 @@ My solutions to leetcode problems
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ My solutions to leetcode problems
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -282,10 +285,12 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
