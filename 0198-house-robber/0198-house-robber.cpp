@@ -1,21 +1,14 @@
 class Solution {
-private:
-    int robHelper(vector<int>& nums, vector<int>& memo, int i) {
-        if (i<0) {
-            return 0;
-        }
-        if (memo[i]>=0) {
-            return memo[i];
-        }
-        int res = max(robHelper(nums, memo, i-2)+nums[i], robHelper(nums, memo, i-1));
-        memo[i] = res;
-        return res;
-    }
-
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> memo(n+1, -1);
-        return robHelper(nums, memo, n-1);
+        if (nums.size() == 0) return 0;
+        int prev1 = 0;
+        int prev2 = 0;
+        for (int num : nums) {
+            int tmp = prev1;
+            prev1 = max(prev2 + num, prev1);
+            prev2 = tmp;
+        }
+        return prev1;
     }
 };
