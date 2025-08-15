@@ -136,6 +136,7 @@ My solutions to leetcode problems
 | [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -243,6 +244,7 @@ My solutions to leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -284,6 +286,7 @@ My solutions to leetcode problems
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Indexed Tree
