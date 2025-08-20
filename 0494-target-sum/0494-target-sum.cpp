@@ -3,10 +3,10 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size(), totalsum=0;
         for (int num: nums) totalsum+=num;
-        if (totalsum<abs(target)) return 0;
+        if (totalsum<target) return 0;
         if ((totalsum+target)%2!=0) return 0;
+        if (totalsum+target<0) return 0;
         target = (totalsum+target)/2;
-        if (target<0) return 0;
         vector<vector<int>> dp(n+1, vector<int>(target+1));
         for (int i=0; i<=n; ++i) {
             dp[i][0] = 1;
