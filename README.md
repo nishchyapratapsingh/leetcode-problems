@@ -211,6 +211,7 @@ My solutions to leetcode problems
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
@@ -348,6 +349,7 @@ My solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -360,6 +362,7 @@ My solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -373,6 +376,7 @@ My solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
