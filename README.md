@@ -114,6 +114,7 @@ My solutions to leetcode problems
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -223,6 +224,7 @@ My solutions to leetcode problems
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
