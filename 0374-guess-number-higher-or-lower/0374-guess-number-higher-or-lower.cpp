@@ -14,10 +14,11 @@ public:
         int e=n;
         int m=s+(e-s)/2;
         while (e>s) {
-            if (guess(m)==-1) {
+            int num = guess(m);
+            if (num==-1) {
                 e=m-1;
             }
-            else if (guess(m)==1) {
+            else if (num==1) {
                 s=m+1;
             }
             else {
