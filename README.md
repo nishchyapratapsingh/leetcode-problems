@@ -42,6 +42,7 @@ My solutions to leetcode problems
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0890-lemonade-change) |
+| [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -78,6 +79,7 @@ My solutions to leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -200,6 +202,7 @@ My solutions to leetcode problems
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
@@ -220,6 +223,7 @@ My solutions to leetcode problems
 | [0374-guess-number-higher-or-lower](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
