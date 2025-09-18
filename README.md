@@ -33,6 +33,7 @@ My solutions to leetcode problems
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
@@ -77,6 +78,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -109,6 +111,7 @@ My solutions to leetcode problems
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -203,6 +206,7 @@ My solutions to leetcode problems
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
@@ -223,6 +227,7 @@ My solutions to leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
