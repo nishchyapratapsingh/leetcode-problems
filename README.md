@@ -133,6 +133,7 @@ My solutions to leetcode problems
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -174,6 +175,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -284,6 +286,7 @@ My solutions to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
