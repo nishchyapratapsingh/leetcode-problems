@@ -23,6 +23,7 @@ My solutions to leetcode problems
 | [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
@@ -260,6 +261,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
