@@ -425,6 +425,7 @@ My solutions to leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -439,6 +440,7 @@ My solutions to leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -455,6 +457,7 @@ My solutions to leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -465,6 +468,7 @@ My solutions to leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
