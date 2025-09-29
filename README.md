@@ -47,6 +47,7 @@ My solutions to leetcode problems
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
@@ -123,6 +124,7 @@ My solutions to leetcode problems
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -149,6 +151,7 @@ My solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
