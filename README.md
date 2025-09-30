@@ -31,6 +31,7 @@ My solutions to leetcode problems
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
@@ -83,6 +84,7 @@ My solutions to leetcode problems
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
@@ -166,6 +168,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
