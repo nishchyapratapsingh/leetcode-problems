@@ -94,6 +94,7 @@ My solutions to leetcode problems
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -156,6 +157,7 @@ My solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
