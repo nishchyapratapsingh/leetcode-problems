@@ -151,6 +151,7 @@ My solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
@@ -295,6 +296,7 @@ My solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
