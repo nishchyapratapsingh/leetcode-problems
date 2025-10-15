@@ -221,6 +221,7 @@ My solutions to leetcode problems
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2556-convert-the-temperature](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
