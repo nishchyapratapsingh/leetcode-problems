@@ -211,6 +211,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -379,6 +380,7 @@ My solutions to leetcode problems
 | [0206-reverse-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
