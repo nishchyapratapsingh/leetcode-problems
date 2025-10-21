@@ -7,7 +7,7 @@ public:
         }
         vector<int> ans;
         for (int id : order) {
-            if (id_table[id] == true) {
+            if (id_table.count(id)) {
                 ans.push_back(id);
             }
         }
