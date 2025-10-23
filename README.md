@@ -176,6 +176,7 @@ My solutions to leetcode problems
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1205-defanging-an-ip-address](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
