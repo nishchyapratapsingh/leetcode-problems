@@ -84,6 +84,7 @@ My solutions to leetcode problems
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [4008-restore-finishing-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +366,7 @@ My solutions to leetcode problems
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Trie
 |  |
 | ------- |
