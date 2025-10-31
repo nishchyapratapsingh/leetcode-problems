@@ -86,6 +86,7 @@ My solutions to leetcode problems
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
@@ -252,6 +253,7 @@ My solutions to leetcode problems
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
