@@ -243,6 +243,7 @@ My solutions to leetcode problems
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -594,4 +595,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
