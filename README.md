@@ -192,6 +192,7 @@ My solutions to leetcode problems
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
