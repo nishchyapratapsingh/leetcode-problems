@@ -528,6 +528,7 @@ My solutions to leetcode problems
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -545,6 +546,7 @@ My solutions to leetcode problems
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
+| [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -562,6 +564,7 @@ My solutions to leetcode problems
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -610,4 +613,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
