@@ -638,4 +638,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
