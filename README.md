@@ -90,6 +90,7 @@ My solutions to leetcode problems
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3285-find-indices-of-stable-mountains](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
