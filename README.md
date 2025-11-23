@@ -196,6 +196,7 @@ My solutions to leetcode problems
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
+| [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -392,6 +393,7 @@ My solutions to leetcode problems
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
