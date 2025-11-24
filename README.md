@@ -168,6 +168,7 @@ My solutions to leetcode problems
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -208,6 +209,7 @@ My solutions to leetcode problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -396,6 +398,7 @@ My solutions to leetcode problems
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
