@@ -71,6 +71,7 @@ My solutions to leetcode problems
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -209,6 +210,7 @@ My solutions to leetcode problems
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
