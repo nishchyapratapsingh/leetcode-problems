@@ -267,6 +267,7 @@ My solutions to leetcode problems
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2383-add-two-integers) |
@@ -410,6 +411,7 @@ My solutions to leetcode problems
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
