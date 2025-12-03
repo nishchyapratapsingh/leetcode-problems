@@ -89,6 +89,7 @@ My solutions to leetcode problems
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2714-left-and-right-sum-differences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -518,6 +519,7 @@ My solutions to leetcode problems
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
