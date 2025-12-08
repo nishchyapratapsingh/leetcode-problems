@@ -286,6 +286,7 @@ My solutions to leetcode problems
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2652-sum-multiples) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
