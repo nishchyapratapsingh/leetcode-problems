@@ -63,6 +63,7 @@ My solutions to leetcode problems
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1534-count-good-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1534-count-good-triplets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -645,6 +646,7 @@ My solutions to leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1534-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
