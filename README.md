@@ -100,6 +100,7 @@ My solutions to leetcode problems
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
@@ -511,6 +512,7 @@ My solutions to leetcode problems
 | [1603-running-sum-of-1d-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
