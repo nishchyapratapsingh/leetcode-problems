@@ -1,15 +1,23 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums) {
-        int totalSum=0;
-        for (int i=0; i<nums.size(); ++i) {
-            int currSum=0;
-            currSum+=nums[i];
+        int n=nums.size();
+        vector<int> prefix(n);
+        prefix[0]=nums[0];
+        for (int i=1; i<n; i++) {
+            prefix[i] = prefix[i-1] + nums[i];
+        }
+        int totalSum = 0;
+        for (int i=0; i<n; ++i) {
+            int currentSum;
             int start = max(0, i - nums[i]);
-            for (int j=start; j<i; j++) {
-                currSum+=nums[j];
+            if (start == 0) {
+                currentSum = prefix[i];
             }
-            totalSum+=currSum;
+            else {
+                currentSum = prefix[i] - prefix[start-1];
+            }
+            totalSum += currentSum;
         }
         return totalSum;
     }
