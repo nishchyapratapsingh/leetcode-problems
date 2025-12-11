@@ -8,6 +8,7 @@ My solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0031-next-permutation) |
@@ -158,6 +159,7 @@ My solutions to leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -306,6 +308,7 @@ My solutions to leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
