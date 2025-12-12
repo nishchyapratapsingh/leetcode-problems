@@ -17,6 +17,7 @@ My solutions to leetcode problems
 | [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -310,6 +311,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
@@ -391,6 +393,7 @@ My solutions to leetcode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
