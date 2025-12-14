@@ -121,6 +121,7 @@ My solutions to leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -278,6 +280,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0066-plus-one) |
