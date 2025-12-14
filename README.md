@@ -133,6 +133,7 @@ My solutions to leetcode problems
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +210,7 @@ My solutions to leetcode problems
 | [0165-compare-version-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -346,6 +348,7 @@ My solutions to leetcode problems
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
