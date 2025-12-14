@@ -220,6 +220,7 @@ My solutions to leetcode problems
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0796-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -685,6 +686,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0796-rotate-string) |
 ## Interactive
 |  |
 | ------- |
