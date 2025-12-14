@@ -10,7 +10,6 @@ public:
                     return false;
                 }
             }
-            else if (cipher[s[i]] == t[i]) continue;
             else if (used[t[i]]) return false;
             else {
                 cipher[s[i]] = t[i];
