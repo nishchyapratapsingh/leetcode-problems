@@ -233,6 +233,7 @@ My solutions to leetcode problems
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -448,6 +449,7 @@ My solutions to leetcode problems
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
