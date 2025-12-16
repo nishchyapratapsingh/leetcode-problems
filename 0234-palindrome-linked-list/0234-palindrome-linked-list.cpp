@@ -1,32 +1,41 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        while (curr) {
+            ListNode* nextnode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextnode;
+        }
+        return prev;
+    }
 public:
     bool isPalindrome(ListNode* head) {
-        if (!head || !head->next) return true; 
         ListNode* slow = head;
         ListNode* fast = head;
-        while (fast->next && fast->next->next) {
+        while(fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* firstHalf = head;
-        ListNode* secondHalf = slow->next;
-        queue<int> leftHalf;
-        stack<int> rightHalf;
-        while (firstHalf != slow->next) {
-            leftHalf.push(firstHalf->val);
-            firstHalf = firstHalf->next;
-        }
-        while (secondHalf) {
-            rightHalf.push(secondHalf->val);
-            secondHalf = secondHalf->next;
-        }
-        while (!leftHalf.empty() && !rightHalf.empty()) {
-            if (leftHalf.front() != rightHalf.top()) {
+        ListNode* newHead = reverseList(slow);
+        while (newHead) {
+            if (head->val != newHead->val) {
                 return false;
             }
-            leftHalf.pop();
-            rightHalf.pop();
-        }  
+            head = head->next;
+            newHead = newHead->next;
+        }
         return true;
     }
 };
