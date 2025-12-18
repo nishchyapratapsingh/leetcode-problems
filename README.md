@@ -180,6 +180,7 @@ My solutions to leetcode problems
 | [0125-valid-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
@@ -356,6 +357,7 @@ My solutions to leetcode problems
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -413,6 +415,7 @@ My solutions to leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -528,6 +531,7 @@ My solutions to leetcode problems
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -609,6 +613,7 @@ My solutions to leetcode problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0206-reverse-linked-list) |
