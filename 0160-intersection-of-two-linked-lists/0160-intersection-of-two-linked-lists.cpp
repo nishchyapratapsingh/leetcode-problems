@@ -9,23 +9,15 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*, int> freq;
-        while (headA || headB) {
-            if (headA) {
-                freq[headA]++;
-                if (freq[headA]>1){
-                    return headA;
-                }
-                headA = headA->next;
+        ListNode* tailA = headA;
+        ListNode* tailB = headB;
+        while (tailA != tailB) {
+            if (tailA == tailB) {
+                return tailA;
             }
-            if (headB) {
-                freq[headB]++;
-                if (freq[headB]>1){
-                    return headB;
-                }
-                headB = headB->next;
-            }
+            tailA = tailA == NULL ? headB : tailA->next;
+            tailB = tailB == NULL ? headA : tailB->next;
         }
-        return nullptr;
+        return tailA;
     }
 };
