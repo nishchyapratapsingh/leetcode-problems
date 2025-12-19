@@ -12,9 +12,6 @@ public:
         ListNode* tailA = headA;
         ListNode* tailB = headB;
         while (tailA != tailB) {
-            if (tailA == tailB) {
-                return tailA;
-            }
             tailA = tailA == NULL ? headB : tailA->next;
             tailB = tailB == NULL ? headA : tailB->next;
         }
