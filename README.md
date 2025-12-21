@@ -104,6 +104,7 @@ My solutions to leetcode problems
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -201,6 +202,7 @@ My solutions to leetcode problems
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -377,6 +379,7 @@ My solutions to leetcode problems
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Counting
