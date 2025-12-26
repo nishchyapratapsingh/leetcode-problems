@@ -234,6 +234,7 @@ My solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0709-to-lower-case](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0796-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
