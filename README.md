@@ -107,6 +107,7 @@ My solutions to leetcode problems
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -329,6 +330,7 @@ My solutions to leetcode problems
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
