@@ -315,6 +315,7 @@ My solutions to leetcode problems
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1448-maximum-69-number) |
@@ -640,6 +641,7 @@ My solutions to leetcode problems
 | [0237-delete-node-in-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
