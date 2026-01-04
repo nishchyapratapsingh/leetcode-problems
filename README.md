@@ -312,6 +312,7 @@ My solutions to leetcode problems
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
@@ -459,6 +460,7 @@ My solutions to leetcode problems
 | [0416-partition-equal-subset-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -533,6 +535,7 @@ My solutions to leetcode problems
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -541,6 +544,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
