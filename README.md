@@ -88,6 +88,7 @@ My solutions to leetcode problems
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -208,6 +209,7 @@ My solutions to leetcode problems
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -264,6 +266,7 @@ My solutions to leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2325-decode-the-message) |
