@@ -93,6 +93,7 @@ My solutions to leetcode problems
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
