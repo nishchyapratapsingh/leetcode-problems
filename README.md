@@ -422,6 +422,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -596,6 +597,7 @@ My solutions to leetcode problems
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
@@ -669,6 +671,7 @@ My solutions to leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -707,6 +710,7 @@ My solutions to leetcode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
