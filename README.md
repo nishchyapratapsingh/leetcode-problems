@@ -317,6 +317,7 @@ My solutions to leetcode problems
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
@@ -541,6 +542,7 @@ My solutions to leetcode problems
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -601,6 +603,7 @@ My solutions to leetcode problems
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
