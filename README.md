@@ -212,6 +212,7 @@ My solutions to leetcode problems
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -336,6 +337,7 @@ My solutions to leetcode problems
 | [2050-count-good-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -780,4 +782,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1916-find-center-of-star-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
