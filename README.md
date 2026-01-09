@@ -339,6 +339,7 @@ My solutions to leetcode problems
 | [2383-add-two-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2556-convert-the-temperature) |
@@ -592,6 +593,7 @@ My solutions to leetcode problems
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
