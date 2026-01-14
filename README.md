@@ -120,6 +120,7 @@ My solutions to leetcode problems
 | [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
