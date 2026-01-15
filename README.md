@@ -361,6 +361,7 @@ My solutions to leetcode problems
 | [3567-convert-date-to-binary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
@@ -786,6 +787,7 @@ My solutions to leetcode problems
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
 |  |
 | ------- |
