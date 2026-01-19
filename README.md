@@ -31,6 +31,7 @@ My solutions to leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
@@ -140,6 +141,7 @@ My solutions to leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -240,6 +242,7 @@ My solutions to leetcode problems
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -474,6 +477,7 @@ My solutions to leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
@@ -531,6 +535,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -571,6 +576,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
