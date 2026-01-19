@@ -23,6 +23,7 @@ My solutions to leetcode problems
 | [0066-plus-one](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -236,6 +237,7 @@ My solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0165-compare-version-numbers) |
@@ -539,6 +541,7 @@ My solutions to leetcode problems
 | [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
@@ -653,6 +656,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -703,6 +707,7 @@ My solutions to leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0101-symmetric-tree) |
