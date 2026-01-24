@@ -75,6 +75,7 @@ My solutions to leetcode problems
 | [1313-decompress-run-length-encoded-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1534-count-good-triplets) |
@@ -416,6 +417,7 @@ My solutions to leetcode problems
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -592,6 +594,7 @@ My solutions to leetcode problems
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
