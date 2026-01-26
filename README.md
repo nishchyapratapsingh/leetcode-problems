@@ -370,6 +370,7 @@ My solutions to leetcode problems
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
