@@ -522,6 +522,7 @@ My solutions to leetcode problems
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -848,9 +849,11 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
