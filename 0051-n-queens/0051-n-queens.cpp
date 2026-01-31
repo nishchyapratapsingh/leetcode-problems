@@ -21,7 +21,6 @@ class Solution {
                 solve(ans, sol, col, dia1, dia2, row+1, n);
 
                 sol.pop_back();
-                curr[c] = '.';
                 col[c] = 0;
                 dia1[row-c+n-1] = 0;
                 dia2[row+c] = 0;
