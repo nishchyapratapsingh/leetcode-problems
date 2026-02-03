@@ -257,6 +257,7 @@ My solutions to leetcode problems
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -339,6 +340,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -578,6 +580,7 @@ My solutions to leetcode problems
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
