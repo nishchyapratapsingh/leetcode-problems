@@ -98,6 +98,7 @@ My solutions to leetcode problems
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
@@ -434,6 +435,7 @@ My solutions to leetcode problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
