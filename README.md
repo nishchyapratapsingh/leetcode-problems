@@ -276,6 +276,7 @@ My solutions to leetcode problems
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0796-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0940-distinct-subsequences-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -521,6 +522,7 @@ My solutions to leetcode problems
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
+| [0940-distinct-subsequences-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
