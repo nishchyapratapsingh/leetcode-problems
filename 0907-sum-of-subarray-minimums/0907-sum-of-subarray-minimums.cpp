@@ -8,7 +8,7 @@ class Solution {
 
         for (int i = 0; i <= n; i++) {
             int currElem = i == n ? 0 : arr[i];
-        	while (!st.empty() && currElem <= arr[st.top()]) {
+        	while (!st.empty() && currElem < arr[st.top()]) {
         		int top = st.top();
         		st.pop();
         		int pse = st.empty() ? -1 : st.top();
