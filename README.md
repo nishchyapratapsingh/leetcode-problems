@@ -297,6 +297,7 @@ My solutions to leetcode problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1816-truncate-sentence) |
+| [1844-replace-all-digits-with-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
