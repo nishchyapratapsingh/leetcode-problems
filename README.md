@@ -310,6 +310,7 @@ My solutions to leetcode problems
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -388,6 +389,7 @@ My solutions to leetcode problems
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -419,6 +421,7 @@ My solutions to leetcode problems
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
