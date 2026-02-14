@@ -138,6 +138,7 @@ My solutions to leetcode problems
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -578,6 +579,7 @@ My solutions to leetcode problems
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
@@ -699,6 +701,7 @@ My solutions to leetcode problems
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
