@@ -3,34 +3,27 @@ public:
      string removeKdigits(string nums, int k) {
 
     	int n = nums.size();
-    	stack<char> st;
-    	for (int i = 0; i < n; i++) {
-    		while (!st.empty() && st.top() > nums[i] && k>0) {
-    			st.pop();
+    	string s;
+        s.push_back(nums[0]);
+    	for (int i = 1; i < n; i++) {
+    		while (!s.empty() && s.back() > nums[i] && k>0) {
+    			s.pop_back();
     			k--;
     		}
-    		st.push(nums[i]);
+    		s.push_back(nums[i]);
     	}
 
         while (k--) {
-            st.pop();
+            s.pop_back();
         }
-
-    	string ans;
-        while (!st.empty()) {
-        	ans.push_back(st.top());
-        	st.pop();
-        }
-
-        reverse(ans.begin(), ans.end());
 
         int i = 0;
-        while (i < ans.size() && ans[i] == '0') {
+        while (i < s.size() && s[i] == '0') {
             i++;
         }
 
-        ans = ans.substr(i);
+        s = s.substr(i);
 
-        return ans.empty() ? "0" : ans;
+        return s.empty() ? "0" : s;
     }
 };
