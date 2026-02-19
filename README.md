@@ -101,6 +101,7 @@ My solutions to leetcode problems
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
@@ -305,6 +306,7 @@ My solutions to leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
