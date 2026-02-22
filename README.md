@@ -572,6 +572,7 @@ My solutions to leetcode problems
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -857,6 +858,7 @@ My solutions to leetcode problems
 | [0402-remove-k-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
@@ -922,8 +924,13 @@ My solutions to leetcode problems
 | [0155-min-stack](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
