@@ -122,6 +122,7 @@ My solutions to leetcode problems
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -202,6 +203,7 @@ My solutions to leetcode problems
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -324,6 +326,7 @@ My solutions to leetcode problems
 | [2325-decode-the-message](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2325-decode-the-message) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -600,6 +603,7 @@ My solutions to leetcode problems
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
