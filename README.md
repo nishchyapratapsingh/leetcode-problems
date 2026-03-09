@@ -190,6 +190,7 @@ My solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -816,6 +817,7 @@ My solutions to leetcode problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -839,6 +841,7 @@ My solutions to leetcode problems
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -864,6 +867,7 @@ My solutions to leetcode problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -884,6 +888,7 @@ My solutions to leetcode problems
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Monotonic Stack
