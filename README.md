@@ -144,6 +144,7 @@ My solutions to leetcode problems
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3248-snake-in-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
@@ -434,6 +435,7 @@ My solutions to leetcode problems
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
