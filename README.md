@@ -78,6 +78,7 @@ My solutions to leetcode problems
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
@@ -202,6 +203,7 @@ My solutions to leetcode problems
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -371,6 +373,7 @@ My solutions to leetcode problems
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -514,6 +517,7 @@ My solutions to leetcode problems
 | [0229-majority-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
