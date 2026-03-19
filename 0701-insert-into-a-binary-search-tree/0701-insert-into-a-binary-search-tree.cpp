@@ -17,7 +17,7 @@ public:
             return node;
         }
         TreeNode* cur = root;
-        TreeNode* prev = cur;
+        TreeNode* prev = nullptr;
         while (cur) {
             prev = cur;
             if (cur->val < val) {
