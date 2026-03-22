@@ -349,6 +349,7 @@ My solutions to leetcode problems
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
+| [3019-number-of-changing-keys](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3340-check-balanced-string) |
