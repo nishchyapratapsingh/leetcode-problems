@@ -26,6 +26,7 @@ My solutions to leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -565,6 +566,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0120-triangle) |
@@ -604,6 +606,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -789,6 +792,7 @@ My solutions to leetcode problems
 | [0037-sudoku-solver](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -939,6 +943,7 @@ My solutions to leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
