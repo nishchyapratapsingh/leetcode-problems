@@ -83,6 +83,7 @@ My solutions to leetcode problems
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -407,6 +408,7 @@ My solutions to leetcode problems
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -979,6 +981,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Combinatorics
 |  |
 | ------- |
