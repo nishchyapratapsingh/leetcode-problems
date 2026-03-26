@@ -10,38 +10,17 @@
  * };
  */
 class Solution {
-public:
-    bool isValidBST(TreeNode* root) {
-        bool valid = true;
-        long prevVal = LONG_MIN;
-        TreeNode* cur = root;
-        while (cur) {
-            if (!cur->left) {  
-                if (cur->val <= prevVal) valid = false;
-                prevVal = cur->val;
-                cur = cur->right;
-            }
+    bool f(TreeNode* root, long l, long r) {
+        if (!root) return true;
 
-            else {
-                TreeNode* prev = cur->left;
-                while (prev->right && prev->right != cur) {
-                    prev = prev->right;
-                }
-
-                if (prev->right == NULL) {
-                    prev->right = cur;
-                    cur = cur->left;
-                }
-
-                else {
-                    if (cur->val <= prevVal) valid = false;
-                    prevVal = cur->val;
-                    prev->right = NULL;
-                    cur = cur->right;
-                }
-            }
+        if (root->val >= r || root->val <= l) {
+            return false;
         }
 
-        return valid;
+        return f(root->left, l, root->val) && f(root->right, root->val, r);
+    }
+public:
+    bool isValidBST(TreeNode* root) {
+        return f(root, LONG_MIN, LONG_MAX);
     }
 };
