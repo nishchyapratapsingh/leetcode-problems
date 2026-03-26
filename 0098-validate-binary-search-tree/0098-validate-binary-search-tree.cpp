@@ -12,11 +12,13 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        vector<int> v;
+        bool valid = true;
+        long prevVal = LONG_MIN;
         TreeNode* cur = root;
         while (cur) {
             if (!cur->left) {  
-                v.push_back(cur->val);
+                if (cur->val <= prevVal) valid = false;
+                prevVal = cur->val;
                 cur = cur->right;
             }
 
@@ -32,20 +34,14 @@ public:
                 }
 
                 else {
-                    v.push_back(cur->val);
+                    if (cur->val <= prevVal) valid = false;
+                    prevVal = cur->val;
                     prev->right = NULL;
                     cur = cur->right;
                 }
             }
         }
-        long prev = LONG_MIN;
-        for (int i: v) {
-            if ((long)i <= prev) {
-                return false;
-            }
-            prev = i;
-        }
 
-        return true;
+        return valid;
     }
 };
