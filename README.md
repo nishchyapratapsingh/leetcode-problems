@@ -87,6 +87,7 @@ My solutions to leetcode problems
 | [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -800,6 +801,7 @@ My solutions to leetcode problems
 | [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
