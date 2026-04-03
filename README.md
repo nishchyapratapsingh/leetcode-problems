@@ -145,6 +145,7 @@ My solutions to leetcode problems
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3151-special-array-i) |
@@ -232,6 +233,7 @@ My solutions to leetcode problems
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -539,6 +541,7 @@ My solutions to leetcode problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
