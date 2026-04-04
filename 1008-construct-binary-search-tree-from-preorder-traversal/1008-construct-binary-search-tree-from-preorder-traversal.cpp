@@ -10,37 +10,21 @@
  * };
  */
 class Solution {
-    TreeNode* f(int pres, int pree, int ins, int ine, vector<int> &preorder, vector<int> &inorder, unordered_map<int, int> &map) {
-        if (pree < pres || ine < ins) {
+    TreeNode* f(int &i, int upperBound, vector<int> &preorder) {
+        if (i == preorder.size() || preorder[i] > upperBound) {
             return NULL;
         }
 
-        TreeNode* root = new TreeNode(preorder[pres]);
-        int inroot = map[preorder[pres]];
-        int cnt = inroot - ins;
+        TreeNode* node = new TreeNode(preorder[i++]);
 
-        root->left = f(pres+1, pres+cnt, ins, inroot - 1, preorder, inorder, map);
-        root->right = f(pres + cnt + 1, pree, inroot+1, ine, preorder, inorder, map);
+        node -> left = f(i, node->val, preorder);
+        node -> right = f(i, upperBound, preorder);
 
-        return root;
+        return node;
     }
-public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int, int> map;
-        int n = inorder.size();
-        for (int i = 0; i < n; i++) {
-            map[inorder[i]] = i;
-        }
-
-        return f(0, n-1, 0, n-1, preorder, inorder, map);
-    }
-
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder = preorder;
-        sort(inorder.begin(), inorder.end());
-
-        return buildTree(preorder, inorder);
-
+        int i = 0;
+        return f(i, INT_MAX, preorder);
     }
 };
