@@ -438,6 +438,7 @@ My solutions to leetcode problems
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
@@ -990,6 +991,7 @@ My solutions to leetcode problems
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2843-count-symmetric-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -1019,6 +1021,7 @@ My solutions to leetcode problems
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
