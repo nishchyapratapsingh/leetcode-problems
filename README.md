@@ -183,6 +183,7 @@ My solutions to leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -300,6 +301,7 @@ My solutions to leetcode problems
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -380,6 +382,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
