@@ -354,6 +354,7 @@ My solutions to leetcode problems
 | [1797-goal-parser-interpretation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -531,6 +532,7 @@ My solutions to leetcode problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1859-sorting-the-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
