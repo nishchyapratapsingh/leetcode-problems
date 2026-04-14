@@ -132,6 +132,7 @@ My solutions to leetcode problems
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -537,6 +538,7 @@ My solutions to leetcode problems
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -632,6 +634,7 @@ My solutions to leetcode problems
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 ## Stack
 |  |
 | ------- |
