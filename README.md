@@ -83,6 +83,7 @@ My solutions to leetcode problems
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
@@ -835,6 +836,7 @@ My solutions to leetcode problems
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -937,6 +939,7 @@ My solutions to leetcode problems
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -1004,6 +1007,7 @@ My solutions to leetcode problems
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
@@ -1119,6 +1123,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
