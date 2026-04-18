@@ -62,6 +62,7 @@ My solutions to leetcode problems
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -622,6 +623,7 @@ My solutions to leetcode problems
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
@@ -833,6 +835,7 @@ My solutions to leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
@@ -1000,6 +1003,7 @@ My solutions to leetcode problems
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
