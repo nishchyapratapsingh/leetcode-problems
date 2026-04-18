@@ -1,0 +1,38 @@
+class Solution {
+public:
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+
+        vector<vector<int>> ans(n, vector<int>(m, INT_MAX));
+        queue<tuple<int, int, int>> q;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (mat[i][j] == 0) {
+                    q.emplace(i, j, 0);
+                    ans[i][j] = 0;
+                }
+            }
+        }
+
+        vector<int> dr = {-1, 0, 1, 0};
+        vector<int> dc = {0, 1, 0, -1};
+
+        while (!q.empty()) {
+            auto [r, c, d] = q.front();
+            q.pop();
+
+            for (int i = 0; i < 4; i++) {
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+
+                if(nr < n && nc < m && nr >= 0 && nc >= 0 && ans[nr][nc] > d+1) {
+                    ans[nr][nc] = d+1;
+                    q.emplace(nr, nc, d+1);
+                }
+            }
+        } 
+
+        return ans;
+    }
+};
