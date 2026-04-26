@@ -178,6 +178,7 @@ My solutions to leetcode problems
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
@@ -394,6 +395,7 @@ My solutions to leetcode problems
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -697,6 +699,7 @@ My solutions to leetcode problems
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Trie
 |  |
