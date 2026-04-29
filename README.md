@@ -171,6 +171,7 @@ My solutions to leetcode problems
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3683-earliest-time-to-finish-one-task) |
