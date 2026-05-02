@@ -43,6 +43,7 @@ My solutions to leetcode problems
 | [0179-largest-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -852,6 +853,7 @@ My solutions to leetcode problems
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
@@ -948,6 +950,7 @@ My solutions to leetcode problems
 | [0144-binary-tree-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1020,6 +1023,7 @@ My solutions to leetcode problems
 | [0112-path-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1149,6 +1153,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
