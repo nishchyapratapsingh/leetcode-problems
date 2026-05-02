@@ -445,6 +445,7 @@ My solutions to leetcode problems
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
@@ -647,6 +648,7 @@ My solutions to leetcode problems
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
