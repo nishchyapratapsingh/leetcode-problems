@@ -5,8 +5,8 @@ public:
         int m = grid[0].size();
         // vector<vector<bool>> vis(n, vector<bool> (m, 0));
 
-        vector<int> dr = {-1, 0, 1, 0};
-        vector<int> dc = {0, 1, 0, -1};
+        int dr[4] = {-1, 0, 1, 0};
+        int dc[4] = {0, 1, 0, -1};  
 
         int cnt = 0;
 
