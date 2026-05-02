@@ -3,7 +3,7 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<bool>> vis(n, vector<bool> (m, 0));
+        // vector<vector<bool>> vis(n, vector<bool> (m, 0));
 
         vector<int> dr = {-1, 0, 1, 0};
         vector<int> dc = {0, 1, 0, -1};
@@ -12,13 +12,14 @@ public:
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (vis[i][j] || grid[i][j] == '0') continue;
+                if (grid[i][j] == '0') continue;
 
                 cnt++;
                 
                 queue<pair<int, int>> q;
                 q.emplace(i, j);
-                vis[i][j] = 1;
+                // vis[i][j] = 1;
+                grid[i][j] = '0';
 
                 while (!q.empty()) {
                     auto [r, c] = q.front();
@@ -31,10 +32,11 @@ public:
 
                         if (nr >= 0 && nr < n && nc >= 0 
                         && nc < m 
-                        && !vis[nr][nc]
+                        // && !vis[nr][nc]
                         && grid[nr][nc] == '1') {
                             q.emplace(nr, nc);
-                            vis[nr][nc] = 1;
+                            // vis[nr][nc] = 1;
+                            grid[nr][nc] = '0';
                         }
                     }
                 }
