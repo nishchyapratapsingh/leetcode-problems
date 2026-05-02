@@ -55,6 +55,7 @@ My solutions to leetcode problems
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -439,6 +440,7 @@ My solutions to leetcode problems
 | [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0728-self-dividing-numbers) |
@@ -632,6 +634,7 @@ My solutions to leetcode problems
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
