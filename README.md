@@ -18,6 +18,7 @@ My solutions to leetcode problems
 | [0040-combination-sum-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
@@ -433,6 +434,7 @@ My solutions to leetcode problems
 | [0007-reverse-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
@@ -857,6 +859,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0085-maximal-rectangle) |
