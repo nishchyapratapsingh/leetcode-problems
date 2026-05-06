@@ -123,6 +123,7 @@ My solutions to leetcode problems
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
+| [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -300,6 +301,7 @@ My solutions to leetcode problems
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -873,6 +875,7 @@ My solutions to leetcode problems
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
