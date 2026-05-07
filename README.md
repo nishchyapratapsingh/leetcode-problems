@@ -179,6 +179,7 @@ My solutions to leetcode problems
 | [3502-minimum-cost-to-reach-every-position](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3660-jump-game-ix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -666,6 +667,7 @@ My solutions to leetcode problems
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [3660-jump-game-ix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
 | ------- |
