@@ -125,6 +125,7 @@ My solutions to leetcode problems
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
 | [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -708,6 +709,7 @@ My solutions to leetcode problems
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
@@ -881,6 +883,7 @@ My solutions to leetcode problems
 | [1572-matrix-diagonal-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
