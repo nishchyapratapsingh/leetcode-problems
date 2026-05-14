@@ -156,6 +156,7 @@ My solutions to leetcode problems
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -259,6 +260,7 @@ My solutions to leetcode problems
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -574,6 +576,7 @@ My solutions to leetcode problems
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
