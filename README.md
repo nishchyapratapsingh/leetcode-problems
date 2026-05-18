@@ -95,6 +95,7 @@ My solutions to leetcode problems
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1313-decompress-run-length-encoded-list) |
+| [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -240,6 +241,7 @@ My solutions to leetcode problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1072,6 +1074,7 @@ My solutions to leetcode problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
