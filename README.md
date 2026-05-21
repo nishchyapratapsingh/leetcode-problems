@@ -169,6 +169,7 @@ My solutions to leetcode problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3151-special-array-i) |
@@ -272,6 +273,7 @@ My solutions to leetcode problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -412,6 +414,7 @@ My solutions to leetcode problems
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3019-number-of-changing-keys) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3340-check-balanced-string) |
@@ -748,6 +751,7 @@ My solutions to leetcode problems
 | [0014-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
