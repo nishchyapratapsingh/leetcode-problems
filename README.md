@@ -1217,4 +1217,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
