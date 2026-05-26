@@ -1,7 +1,6 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        int ans = 0;
         unordered_set<char> special;
         unordered_set<char> lower;
         unordered_set<char> upper;
