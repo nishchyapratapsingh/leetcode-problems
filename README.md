@@ -414,6 +414,7 @@ My solutions to leetcode problems
 | [2678-number-of-senior-citizens](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3019-number-of-changing-keys) |
@@ -742,6 +743,7 @@ My solutions to leetcode problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3248-snake-in-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
