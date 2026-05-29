@@ -1,21 +1,18 @@
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        int min_val = INT_MAX;
-
-        for (int num : nums) {
+        int mn = INT_MAX;
+        for (int num: nums) {
+            string str = to_string(num);
             int sum = 0;
-            int temp = num;
-                while (temp > 0) {
-                sum += temp % 10;
-                temp /= 10;
+
+            for (char c: str) {
+                sum += (c - '0');
             }
-            
-            if (sum < min_val) {
-                min_val = sum;
-            }
+
+            mn = min(mn, sum);
         }
 
-        return min_val;
+        return mn;
     }
 };
