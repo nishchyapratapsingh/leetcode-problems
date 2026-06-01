@@ -139,6 +139,7 @@ My solutions to leetcode problems
 | [2126-destroying-asteroids](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -557,6 +558,7 @@ My solutions to leetcode problems
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -595,6 +597,7 @@ My solutions to leetcode problems
 | [1859-sorting-the-sentence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
