@@ -439,6 +439,7 @@ My solutions to leetcode problems
 | [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -537,6 +538,7 @@ My solutions to leetcode problems
 | [3783-mirror-distance-of-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3894-traffic-signal-color](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
@@ -761,6 +763,7 @@ My solutions to leetcode problems
 | [3790-fruits-into-baskets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3894-traffic-signal-color) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Trie
 |  |
