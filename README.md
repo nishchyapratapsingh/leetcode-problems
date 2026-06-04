@@ -536,6 +536,7 @@ My solutions to leetcode problems
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -709,6 +710,7 @@ My solutions to leetcode problems
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -1133,6 +1135,7 @@ My solutions to leetcode problems
 | [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2843-count-symmetric-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Probability and Statistics
 |  |
