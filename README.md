@@ -174,6 +174,7 @@ My solutions to leetcode problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3093-longest-common-suffix-queries](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3093-longest-common-suffix-queries) |
@@ -613,6 +614,7 @@ My solutions to leetcode problems
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3731-find-missing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -1143,6 +1145,7 @@ My solutions to leetcode problems
 | [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2843-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Probability and Statistics
