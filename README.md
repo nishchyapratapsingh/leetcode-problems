@@ -115,6 +115,7 @@ My solutions to leetcode problems
 | [1636-sort-array-by-increasing-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -745,6 +746,7 @@ My solutions to leetcode problems
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -758,6 +760,7 @@ My solutions to leetcode problems
 | [0874-walking-robot-simulation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
@@ -1208,6 +1211,7 @@ My solutions to leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
