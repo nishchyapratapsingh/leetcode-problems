@@ -372,6 +372,7 @@ My solutions to leetcode problems
 | [0402-remove-k-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -487,6 +488,7 @@ My solutions to leetcode problems
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -757,6 +759,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0874-walking-robot-simulation) |
