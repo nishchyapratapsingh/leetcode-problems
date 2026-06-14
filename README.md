@@ -332,6 +332,7 @@ My solutions to leetcode problems
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
@@ -754,6 +755,7 @@ My solutions to leetcode problems
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -979,6 +981,7 @@ My solutions to leetcode problems
 | [0908-middle-of-the-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
