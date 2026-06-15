@@ -8,9 +8,8 @@ private:
             ans.push_back(cur);
             return;
         }
-        if (num == 10) {
-            return;
-        }
+        if (sum > n || cur.size() > k)
+        return;
 
         for (int i = num; i <= 9; i++) {
             cur.push_back(i);
