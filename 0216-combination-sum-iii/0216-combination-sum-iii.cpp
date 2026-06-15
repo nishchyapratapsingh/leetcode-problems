@@ -1,23 +1,26 @@
 class Solution {
-    void solve(int num, int k, int target, vector<vector<int>> &res, vector<int> &curr) {
-        if (target == 0 && curr.size() == k) {
-            res.push_back(curr);
+private:
+    vector<vector<int>> ans;
+    vector<int> cur;
+
+    void backtrack(int num, int sum, int k, int n) {
+        if (sum == n && cur.size() == k) {
+            ans.push_back(cur);
             return;
         }
-        if (curr.size() > k || num == 10) {
+        if (num == 10) {
             return;
         }
-        for (int i = num; i < 10; i++) {
-            curr.push_back(i);
-            solve(i+1, k, target-i, res, curr);
-            curr.pop_back();
+
+        for (int i = num; i <= 9; i++) {
+            cur.push_back(i);
+            backtrack(i+1, sum+i, k, n);
+            cur.pop_back();
         }
     }
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>> res;
-        vector<int> curr;
-        solve(1, k, n, res, curr);
-        return res;
+        backtrack(1, 0, k, n);
+        return ans;
     }
 };
