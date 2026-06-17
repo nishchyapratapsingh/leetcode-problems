@@ -424,6 +424,7 @@ My solutions to leetcode problems
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2678-number-of-senior-citizens](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
