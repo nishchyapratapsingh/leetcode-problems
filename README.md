@@ -636,6 +636,7 @@ My solutions to leetcode problems
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -768,6 +769,7 @@ My solutions to leetcode problems
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1237,6 +1239,7 @@ My solutions to leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Queue
 |  |
