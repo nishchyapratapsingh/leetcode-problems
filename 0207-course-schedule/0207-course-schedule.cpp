@@ -21,10 +21,10 @@ public:
             }
         }
 
-        vector<int> sorted;
+        int cnt = 0;
         while (!q.empty()) {
             int nd = q.front();
-            sorted.push_back(nd);
+            cnt++;
             q.pop();
 
             for (auto &it : adj[nd]) {
@@ -35,6 +35,6 @@ public:
             }
         }
         
-        return sorted.size() == n;
+        return cnt == n;
     }
 };
