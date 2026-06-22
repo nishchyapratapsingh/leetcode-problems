@@ -252,6 +252,7 @@ My solutions to leetcode problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -391,6 +392,7 @@ My solutions to leetcode problems
 | [0940-distinct-subsequences-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -636,6 +638,7 @@ My solutions to leetcode problems
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
