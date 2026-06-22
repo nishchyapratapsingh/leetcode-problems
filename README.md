@@ -267,6 +267,7 @@ My solutions to leetcode problems
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -419,6 +420,7 @@ My solutions to leetcode problems
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2325-decode-the-message) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -646,6 +648,7 @@ My solutions to leetcode problems
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
