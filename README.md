@@ -489,6 +489,7 @@ My solutions to leetcode problems
 | [0070-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
@@ -770,6 +771,7 @@ My solutions to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0682-baseball-game) |
@@ -1204,6 +1206,7 @@ My solutions to leetcode problems
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
