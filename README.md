@@ -789,6 +789,7 @@ My solutions to leetcode problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2810-faulty-keyboard) |
@@ -996,6 +997,7 @@ My solutions to leetcode problems
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
