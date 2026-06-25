@@ -14,6 +14,7 @@ public:
         queue<string> q;
         q.push(beginWord);
         dist[beginWord] = 0;
+        words.erase(beginWord);
 
         while (!q.empty()) {
             string cur = q.front();
@@ -27,7 +28,8 @@ public:
                 char t = w[i];
                 for (int k = 0; k < 26; k++) {
                     w[i] = k+'a';
-                    if (words.count(w) && !dist.count(w)) {
+                    if (words.count(w)) {
+                        words.erase(w);
                         q.push(w);
                         dist[w] = dist[cur]+1;
                     }
