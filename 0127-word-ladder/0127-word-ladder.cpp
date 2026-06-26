@@ -4,7 +4,7 @@ public:
         int l = beginWord.length();
         int n = wordList.size();
 
-        unordered_map<string, int> dist;
+        int dist = 0;
 
         unordered_set<string> words;
         for (auto w : wordList) {
@@ -13,31 +13,34 @@ public:
 
         queue<string> q;
         q.push(beginWord);
-        dist[beginWord] = 0;
         words.erase(beginWord);
 
         while (!q.empty()) {
-            string cur = q.front();
-            q.pop();
+            int sz = q.size();
+            dist++;
 
-            if (cur == endWord) break;
+            while (sz--) {
+                string cur = q.front();
+                q.pop();
 
-            string w = cur;
+                if (cur == endWord) return dist;
 
-            for (int i = 0; i < l; i++) {
-                char t = w[i];
-                for (int k = 0; k < 26; k++) {
-                    w[i] = k+'a';
-                    if (words.count(w)) {
-                        words.erase(w);
-                        q.push(w);
-                        dist[w] = dist[cur]+1;
+                string w = cur;
+
+                for (int i = 0; i < l; i++) {
+                    char t = w[i];
+                    for (int k = 0; k < 26; k++) {
+                        w[i] = k+'a';
+                        if (words.count(w)) {
+                            words.erase(w);
+                            q.push(w);
+                        }
                     }
+                    w[i] = t;
                 }
-                w[i] = t;
             }
         }
 
-        return dist.count(endWord) ? dist[endWord] + 1 : 0;
+        return 0;
     }
 };
