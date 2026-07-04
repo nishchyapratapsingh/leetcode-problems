@@ -29,6 +29,10 @@ public:
                 int adjNode = it.first;
 
                 if (dis + wt < dist[adjNode]) {
+                    //set optimisation
+                    if (dist[adjNode] != 1e9) {
+                        st.erase({dist[adjNode], adjNode});
+                    }
                     dist[adjNode] = dis + wt;
                     // pq.emplace(dis+wt, adjNode);
                     st.insert({dis+wt, adjNode});
