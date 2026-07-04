@@ -6,15 +6,23 @@ public:
             adj[e[0]].push_back({e[1], e[2]});
         }
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        // priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        set<pair<int, int>> st;
         vector<int> dist(n+1, 1e9);
 
         dist[k] = 0;
-        pq.emplace(0, k);
+        // pq.emplace(0, k);
+        st.insert({0, k});
 
-        while (!pq.empty()) {
-            auto[dis, node] = pq.top();
-            pq.pop();
+        while (!st.empty()) {
+            // auto[dis, node] = pq.top();
+            auto[dis, node] = *st.begin();
+            // pq.pop();
+            st.erase(st.begin());
+
+            if (dis > dist[node]) {
+                continue;
+            }
 
             for (auto &it : adj[node]) {
                 int wt = it.second;
@@ -22,15 +30,16 @@ public:
 
                 if (dis + wt < dist[adjNode]) {
                     dist[adjNode] = dis + wt;
-                    pq.emplace(dis+wt, adjNode);
+                    // pq.emplace(dis+wt, adjNode);
+                    st.insert({dis+wt, adjNode});
                 }
             }
         }
 
         int minDist = -1;
-        dist[0] = -1; //it has never changed from infinity
         
-        for (int &d : dist) {
+        for (int i = 1; i <= n; i++) {
+            int d = dist[i];
             if (d == 1e9) {
                 return -1;
             }
