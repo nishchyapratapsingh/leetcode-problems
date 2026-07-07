@@ -565,6 +565,7 @@ My solutions to leetcode problems
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
