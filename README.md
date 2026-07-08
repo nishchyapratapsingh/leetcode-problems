@@ -692,6 +692,7 @@ My solutions to leetcode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -927,6 +928,7 @@ My solutions to leetcode problems
 | [0078-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
