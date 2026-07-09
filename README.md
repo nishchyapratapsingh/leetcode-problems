@@ -502,6 +502,7 @@ My solutions to leetcode problems
 | [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
@@ -672,6 +673,7 @@ My solutions to leetcode problems
 | [0222-count-complete-tree-nodes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0792-binary-search) |
