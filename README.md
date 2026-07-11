@@ -509,6 +509,7 @@ My solutions to leetcode problems
 | [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -938,6 +939,7 @@ My solutions to leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
