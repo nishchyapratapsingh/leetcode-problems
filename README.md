@@ -64,6 +64,7 @@ My solutions to leetcode problems
 | [0493-reverse-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
@@ -243,6 +244,7 @@ My solutions to leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -385,6 +387,7 @@ My solutions to leetcode problems
 | [0415-add-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0567-permutation-in-string) |
