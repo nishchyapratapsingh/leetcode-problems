@@ -19,6 +19,7 @@ My solutions to leetcode problems
 | [0046-permutations](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0055-jump-game) |
@@ -220,6 +221,7 @@ My solutions to leetcode problems
 | [0013-roman-to-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -365,6 +367,7 @@ My solutions to leetcode problems
 | [0020-valid-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0079-word-search) |
@@ -612,6 +615,7 @@ My solutions to leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0148-sort-list) |
