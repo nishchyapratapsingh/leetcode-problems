@@ -1349,6 +1349,7 @@ My solutions to leetcode problems
 | [0183-customers-who-never-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
