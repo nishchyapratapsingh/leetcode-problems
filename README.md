@@ -1361,6 +1361,7 @@ My solutions to leetcode problems
 | [1484-group-sold-products-by-the-date](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1683-invalid-tweets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1795-rearrange-products-table) |
