@@ -1353,6 +1353,7 @@ My solutions to leetcode problems
 | [0196-delete-duplicate-emails](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0619-biggest-single-number) |
