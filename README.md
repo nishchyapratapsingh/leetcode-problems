@@ -463,6 +463,7 @@ My solutions to leetcode problems
 | [3412-permutation-difference-between-two-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3447-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-convert-date-to-binary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -655,6 +656,7 @@ My solutions to leetcode problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3778-transform-array-by-parity) |
 ## Counting
@@ -921,6 +923,7 @@ My solutions to leetcode problems
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
