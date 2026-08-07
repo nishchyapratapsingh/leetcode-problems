@@ -3,8 +3,9 @@ SELECT e.employee_id
 FROM Employees e
 WHERE e.salary < 30000
     AND e.manager_id IS NOT NULL
-    AND (
-        SELECT COUNT(*) FROM Employees 
-        WHERE e.manager_id = employee_id
-    ) = 0
+    AND NOT EXISTS (
+        SELECT *
+        FROM Employees
+        WHERE employee_id = e.manager_id
+)
 ORDER BY employee_id;
