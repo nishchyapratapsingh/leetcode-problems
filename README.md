@@ -1391,6 +1391,7 @@ My solutions to leetcode problems
 | [1978-employees-whose-manager-left-the-company](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3570-find-books-with-no-available-copies) |
 ## Shortest Path
 |  |
