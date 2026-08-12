@@ -25,5 +25,5 @@ WHERE EXISTS (
     WHERE u.user_id = v.user_id
     AND v.activity_type = 'free_trial'
 )
-GROUP BY user_id
+GROUP BY u.user_id
 ORDER BY user_id;
