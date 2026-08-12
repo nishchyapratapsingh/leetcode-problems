@@ -179,6 +179,7 @@ My solutions to leetcode problems
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -292,6 +293,7 @@ My solutions to leetcode problems
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -495,6 +497,7 @@ My solutions to leetcode problems
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
