@@ -297,6 +297,7 @@ My solutions to leetcode problems
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -454,6 +455,7 @@ My solutions to leetcode problems
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -498,6 +500,7 @@ My solutions to leetcode problems
 | [1652-defuse-the-bomb](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
