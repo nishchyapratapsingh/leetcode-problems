@@ -124,6 +124,7 @@ My solutions to leetcode problems
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1748-sum-of-unique-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
