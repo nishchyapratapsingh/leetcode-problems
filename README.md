@@ -165,6 +165,7 @@ My solutions to leetcode problems
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -667,6 +668,7 @@ My solutions to leetcode problems
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -838,6 +840,7 @@ My solutions to leetcode problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2810-faulty-keyboard) |
@@ -918,6 +921,7 @@ My solutions to leetcode problems
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1027,6 +1031,7 @@ My solutions to leetcode problems
 | [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
