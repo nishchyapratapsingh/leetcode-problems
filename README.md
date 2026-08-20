@@ -219,6 +219,7 @@ My solutions to leetcode problems
 | [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4008-restore-finishing-order) |
+| [4020-elevator-requests-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4020-elevator-requests-i) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -854,6 +855,7 @@ My solutions to leetcode problems
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3894-traffic-signal-color) |
+| [4020-elevator-requests-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4020-elevator-requests-i) |
 | [4058-compute-alternating-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Trie
 |  |
