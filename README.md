@@ -172,6 +172,7 @@ My solutions to leetcode problems
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
+| [2706-buy-two-chocolates](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2706-buy-two-chocolates) |
 | [2714-left-and-right-sum-differences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -628,6 +629,7 @@ My solutions to leetcode problems
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2706-buy-two-chocolates](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
@@ -670,6 +672,7 @@ My solutions to leetcode problems
 | [2418-sort-the-people](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2706-buy-two-chocolates](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
