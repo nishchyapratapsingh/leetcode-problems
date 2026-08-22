@@ -527,6 +527,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0326-power-of-three) |
