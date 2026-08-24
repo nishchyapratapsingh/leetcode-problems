@@ -3,11 +3,11 @@ public:
     int hammingDistance(int x, int y) {
         int cnt = 0;
 
-        while (x || y) {
-            if (x % 2 != y % 2) cnt++;
+        int n = x ^ y;
 
-            if (x) x/=2;
-            if (y) y/=2;
+        while (n) {
+            cnt += n & 1;
+            n >>= 1;
         }
 
         return cnt;
