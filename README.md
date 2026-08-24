@@ -985,6 +985,7 @@ My solutions to leetcode problems
 | [0338-counting-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
