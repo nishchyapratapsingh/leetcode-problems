@@ -119,6 +119,7 @@ My solutions to leetcode problems
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1652-defuse-the-bomb) |
@@ -725,6 +726,7 @@ My solutions to leetcode problems
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -931,6 +933,7 @@ My solutions to leetcode problems
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
@@ -1040,6 +1043,7 @@ My solutions to leetcode problems
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1158,6 +1162,7 @@ My solutions to leetcode problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -1241,6 +1246,7 @@ My solutions to leetcode problems
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1367,6 +1373,7 @@ My solutions to leetcode problems
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -1457,4 +1464,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
