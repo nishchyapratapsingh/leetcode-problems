@@ -193,6 +193,7 @@ My solutions to leetcode problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3093-longest-common-suffix-queries) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3151-special-array-i) |
@@ -636,6 +637,7 @@ My solutions to leetcode problems
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-buy-two-chocolates](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
@@ -681,6 +683,7 @@ My solutions to leetcode problems
 | [2784-check-if-array-is-good](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
