@@ -100,6 +100,7 @@ My solutions to leetcode problems
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -276,6 +277,7 @@ My solutions to leetcode problems
 | [0992-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1436-destination-city) |
