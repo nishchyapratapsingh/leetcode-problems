@@ -551,6 +551,7 @@ My solutions to leetcode problems
 | [0779-k-th-symbol-in-grammar](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0923-super-egg-drop](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0923-super-egg-drop) |
@@ -1299,6 +1300,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Combinatorics
 |  |
