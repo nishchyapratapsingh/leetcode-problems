@@ -68,6 +68,7 @@ My solutions to leetcode problems
 | [0496-next-greater-element-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -663,6 +664,7 @@ My solutions to leetcode problems
 | [0435-non-overlapping-intervals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -939,6 +941,7 @@ My solutions to leetcode problems
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
