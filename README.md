@@ -55,6 +55,7 @@ My solutions to leetcode problems
 | [0238-product-of-array-except-self](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -975,6 +976,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -1359,6 +1361,7 @@ My solutions to leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2069-walking-robot-simulation-ii) |
