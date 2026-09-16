@@ -1,9 +1,7 @@
 class NumArray {
-    vector<int> nums;
     vector<int> ps;
 public:
     NumArray(vector<int>& nums) {
-        this->nums = nums;
         ps.resize(nums.size()+1);
         ps[0] = 0;
 
