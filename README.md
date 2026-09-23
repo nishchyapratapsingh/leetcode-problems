@@ -129,6 +129,7 @@ My solutions to leetcode problems
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -290,6 +291,7 @@ My solutions to leetcode problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1748-sum-of-unique-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -522,6 +524,7 @@ My solutions to leetcode problems
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -741,6 +744,7 @@ My solutions to leetcode problems
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -988,6 +992,7 @@ My solutions to leetcode problems
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
