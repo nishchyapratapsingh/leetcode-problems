@@ -800,6 +800,7 @@ My solutions to leetcode problems
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-new-21-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -951,6 +952,7 @@ My solutions to leetcode problems
 | [0451-sort-characters-by-frequency](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
@@ -1180,6 +1182,7 @@ My solutions to leetcode problems
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0975-range-sum-of-bst) |
@@ -1263,6 +1266,7 @@ My solutions to leetcode problems
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1410,6 +1414,7 @@ My solutions to leetcode problems
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
@@ -1491,6 +1496,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
