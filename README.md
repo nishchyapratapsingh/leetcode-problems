@@ -1500,5 +1500,6 @@ My solutions to leetcode problems
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
