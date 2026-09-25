@@ -1,56 +1,47 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int, int>>> adj(n+1);
-        for (auto &e : times) {
-            adj[e[0]].push_back({e[1], e[2]});
+        vector<vector<pair<int, int>>> adj(n+1); //{to, cost}
+
+        for (auto &it : times) {
+            adj[it[0]].emplace_back(it[1], it[2]);
         }
 
-        // priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        set<pair<int, int>> st;
-        vector<int> dist(n+1, 1e9);
+        vector<int> delay(n+1, INT_MAX);
+        delay[k] = 0;
 
-        dist[k] = 0;
-        // pq.emplace(0, k);
-        st.insert({0, k});
+        using pr = pair<int, int>;
+        priority_queue<pr, vector<pr>, greater<pr>> pq; //{delay, node}
 
-        while (!st.empty()) {
-            // auto[dis, node] = pq.top();
-            auto[dis, node] = *st.begin();
-            // pq.pop();
-            st.erase(st.begin());
+        pq.emplace(0, k);
 
-            if (dis > dist[node]) {
+        while (!pq.empty()) {
+            auto[dl, nd] = pq.top();
+            pq.pop();
+
+            if (dl > delay[nd]) {
                 continue;
             }
 
-            for (auto &it : adj[node]) {
-                int wt = it.second;
-                int adjNode = it.first;
-
-                if (dis + wt < dist[adjNode]) {
-                    //set optimisation
-                    if (dist[adjNode] != 1e9) {
-                        st.erase({dist[adjNode], adjNode});
-                    }
-                    dist[adjNode] = dis + wt;
-                    // pq.emplace(dis+wt, adjNode);
-                    st.insert({dis+wt, adjNode});
+            for (auto &[nb, tm] : adj[nd]) {
+                if (dl + tm < delay[nb]) {
+                    delay[nb] = dl + tm;
+                    pq.emplace(delay[nb], nb);
                 }
             }
         }
 
-        int minDist = -1;
-        
+        int ans = 0;
+
         for (int i = 1; i <= n; i++) {
-            int d = dist[i];
-            if (d == 1e9) {
+            int d = delay[i];
+            if (d == INT_MAX) {
                 return -1;
             }
 
-            minDist = max(minDist, d);
+            ans = max(d, ans);
         }
 
-        return minDist;
+        return ans;
     }
 };
