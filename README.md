@@ -812,6 +812,7 @@ My solutions to leetcode problems
 | [1250-longest-common-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3660-jump-game-ix) |
@@ -1416,6 +1417,7 @@ My solutions to leetcode problems
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
@@ -1423,6 +1425,7 @@ My solutions to leetcode problems
 | [0207-course-schedule](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Database
 |  |
 | ------- |
@@ -1497,9 +1500,11 @@ My solutions to leetcode problems
 | ------- |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
