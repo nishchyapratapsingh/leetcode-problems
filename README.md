@@ -89,6 +89,7 @@ My solutions to leetcode problems
 | [0830-largest-triangle-area](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0890-lemonade-change) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -862,6 +863,7 @@ My solutions to leetcode problems
 | [0657-robot-return-to-origin](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -1069,6 +1071,7 @@ My solutions to leetcode problems
 | [0542-01-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
