@@ -439,6 +439,7 @@ My solutions to leetcode problems
 | [0806-number-of-lines-to-write-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -644,6 +645,7 @@ My solutions to leetcode problems
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -846,6 +848,7 @@ My solutions to leetcode problems
 | [0682-baseball-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1518,4 +1521,8 @@ My solutions to leetcode problems
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
