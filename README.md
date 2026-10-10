@@ -453,6 +453,7 @@ My solutions to leetcode problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1666-make-the-string-great](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1666-make-the-string-great) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1720-crawler-log-folder](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1773-count-items-matching-a-rule) |
@@ -727,6 +728,7 @@ My solutions to leetcode problems
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
