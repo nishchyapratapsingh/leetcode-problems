@@ -33,17 +33,10 @@ public:
                 }
             }
 
-            mn = min(cnt, mn);
-        }
-        for (int i = 0; i < n; i++) {
-            int cnt = 0;
-            for (int l = 0; l < n; l++) {
-                if (adm[i][l] <= distanceThreshold) {
-                    cnt++;
-                }
+            if (cnt <= mn) {
+                mn = cnt;
+                ans = i;
             }
-
-            if (cnt == mn) ans = max(ans, i);
         }
 
         return ans;
