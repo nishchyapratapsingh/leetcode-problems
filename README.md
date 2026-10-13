@@ -155,6 +155,7 @@ My solutions to leetcode problems
 | [1927-maximum-ascending-subarray-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2048-build-array-from-permutation](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -302,6 +303,7 @@ My solutions to leetcode problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2032-two-out-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2103-rings-and-rods](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -1041,6 +1043,7 @@ My solutions to leetcode problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
