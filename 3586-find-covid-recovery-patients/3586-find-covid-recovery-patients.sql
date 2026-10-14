@@ -25,5 +25,5 @@ JOIN first_pos_date fp
 ON p.patient_id = fp.patient_id
 JOIN first_neg_date fn
 ON fp.patient_id = fn.patient_id
-    AND fp.positive_date < fn.negative_date
+    -- AND fp.positive_date < fn.negative_date
 ORDER BY recovery_time, p.patient_name;
