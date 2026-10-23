@@ -33,7 +33,7 @@ public:
 
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        vector<tuple<int, int, int>> edges(n);
+        vector<tuple<int, int, int>> edges;
 
         {
             for (int i = 0; i < n; i++) {
