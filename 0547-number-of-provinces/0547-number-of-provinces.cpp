@@ -1,49 +1,53 @@
 class Solution {
-private:
-    void bfs(int src, vector<vector<int>> &adj, vector<bool> &visited) {
-        // code here        
-        queue<int> q;
-        q.push(src);
-        
-        visited[src] = 1;
-        
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            
-            for (auto &it: adj[node]) {
-                if (!visited[it]) {
-                    q.push(it);
-                    visited[it] = 1;
-                }
-            }
-        }
-        
-        return;
-    }
 public:
+    vector<int> size;
+    vector<int> parent;
+    
+    int findPar(int n) {
+        if (n == parent[n]) {
+            return n;
+        }   
+        
+        return parent[n] = findPar(parent[n]);
+    }
+    
+    void unionSize(int u, int v) {
+        int pu = findPar(u), pv = findPar(v);
+        
+        if (pu == pv) return;
+        
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        }
+        else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-
-        vector<vector<int>> adj(n);
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j]) {
-                    adj[i].push_back(j);
+        int V = isConnected.size();
+        size.assign(V, 1);
+        parent.resize(V);
+        
+        for (int i = 0; i < V; i++) {
+            parent[i] = i;
+        }
+        
+        for (int i = 0; i < V; i++) {
+            for (int k = 0; k < V; k++) {
+                if (isConnected[i][k]) {
+                    unionSize(i, k);
                 }
             }
         }
         
-        vector<bool> visited(n);
-        int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                cnt++;
-                bfs(i, adj, visited);
-            }
+        unordered_set<int> s;
+        for (int i = 0; i < V; i++) {
+            s.insert(findPar(i));
         }
-
-        return cnt;
+        
+        return s.size();
     }
 };
