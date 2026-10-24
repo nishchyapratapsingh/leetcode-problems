@@ -36,7 +36,7 @@ public:
         }
         
         for (int i = 0; i < V; i++) {
-            for (int k = 0; k < V; k++) {
+            for (int k = i+1; k < V; k++) {
                 if (isConnected[i][k]) {
                     unionSize(i, k);
                 }
