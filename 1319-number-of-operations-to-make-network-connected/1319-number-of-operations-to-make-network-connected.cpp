@@ -40,24 +40,21 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         DSU ds(n);
+
+        int extras = 0;
         
         for (auto &e : connections) {
-            ds.unionSize(e[0], e[1]);
+            if (ds.findPar(e[0]) == ds.findPar(e[1])) extras++;
+            else ds.unionSize(e[0], e[1]);
         }
         
-        int cnt = 0;
+        int comp = 0;
         for (int i = 0; i < n; i++) {
             if (ds.parent[i] == i) {
-                cnt++;
+                comp++;
             }
         }
         
-        int m = connections.size();
-        
-        if (m - (n - cnt) >= cnt-1) {
-            return cnt-1;
-        } 
-        
-        return -1;
+        return (extras >= comp-1) ? comp - 1 : -1;
     }
 };
