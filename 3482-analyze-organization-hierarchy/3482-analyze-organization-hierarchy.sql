@@ -22,13 +22,18 @@ team as (
     from employees e
     join team t
     on t.employee_id = e.manager_id
+),
+team_stats as (
+    select root as employee_id, 
+        count(*) - 1 as team_size,
+        sum(salary) as budget
+    from team
+    group by root
 )
 
-select l.employee_id, l.employee_name, l.level, 
-    count(t.employee_id)-1 as team_size, sum(t.salary) as budget
+select t.employee_id, l.employee_name, l.level, t.team_size, t.budget
 from levels l
-join team t
-on t.root = l.employee_id
-group by t.root
+join team_stats t
+on t.employee_id = l.employee_id
 order by level, budget desc, employee_name;
 
