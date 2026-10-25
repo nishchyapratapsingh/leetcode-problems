@@ -1477,6 +1477,7 @@ My solutions to leetcode problems
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0619-biggest-single-number) |
