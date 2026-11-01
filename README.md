@@ -80,6 +80,7 @@ My solutions to leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -277,6 +278,7 @@ My solutions to leetcode problems
 | [0575-distribute-candies](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0804-unique-morse-code-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -437,6 +439,7 @@ My solutions to leetcode problems
 | [0657-robot-return-to-origin](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0709-to-lower-case) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0804-unique-morse-code-words) |
@@ -690,6 +693,7 @@ My solutions to leetcode problems
 | [0561-array-partition](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0924-fair-candy-swap](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1202,6 +1206,7 @@ My solutions to leetcode problems
 | [0637-average-of-levels-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
@@ -1290,6 +1295,7 @@ My solutions to leetcode problems
 | [0637-average-of-levels-in-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
@@ -1430,6 +1436,7 @@ My solutions to leetcode problems
 | [0130-surrounded-regions](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/1020-number-of-enclaves) |
