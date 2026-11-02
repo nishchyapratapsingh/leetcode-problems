@@ -69,17 +69,10 @@ public:
 
         vector<vector<string>> ans;
         
-        for (auto &[x, y] : merged) {
-            sort(y.begin(), y.end());
-
-            vector<string> temp;
-            temp.push_back(accounts[x][0]); 
-
-            for (auto &email : y) {
-                temp.push_back(email);
-            }
-
-            ans.push_back(temp);
+        for (auto &[idx, mails] : merged) {
+            sort(mails.begin(), mails.end());
+            mails.insert(mails.begin(), accounts[idx][0]);
+            ans.push_back(mails);
         }
 
         return ans;
