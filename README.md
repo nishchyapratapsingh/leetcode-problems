@@ -518,6 +518,7 @@ My solutions to leetcode problems
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3894-traffic-signal-color) |
