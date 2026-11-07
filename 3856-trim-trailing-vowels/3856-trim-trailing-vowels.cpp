@@ -1,13 +1,7 @@
 class Solution {
     bool isVowel(char c) {
-        unordered_set<char> st;
-        st.insert('a');
-        st.insert('e');
-        st.insert('i');
-        st.insert('o');
-        st.insert('u');
-
-        return st.count(c);
+        return c == 'a' || c == 'e' || c == 'i' ||
+            c == 'o' || c == 'u';
     }
 public:
     string trimTrailingVowels(string s) {
