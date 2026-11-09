@@ -625,6 +625,7 @@ My solutions to leetcode problems
 | [3099-harshad-number](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3270-find-the-key-of-the-numbers](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nishchyapratapsingh/leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
